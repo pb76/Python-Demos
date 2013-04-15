@@ -3,7 +3,7 @@
 
 t.ex
 open("lista.txt","r+") öppnar för läsa och skriva
-r = läsa <- default-värde
+r = läsa <- default
 r+ = både läsa och skriva
 w = bara skriva (skriver över redan existerande fil)
 a = lägg till i slutet på existerande fil
